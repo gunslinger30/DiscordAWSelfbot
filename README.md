@@ -2,6 +2,8 @@ this is a selfbot that i created when i was learning discord.py alot of the feat
 
 this is purely for learning purposes ONLY and has no malicious features.
 
+alot of this is my own work yeah its poorly coded and i could've optimized it better its a good base for anyone wanting to learn python
+this content contains no copyright feel free to use whatever for your own use
 
 how to use?
 1. Install python then add it to path https://www.python.org/downloads/release/python-384/
