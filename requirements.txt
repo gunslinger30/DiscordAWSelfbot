@@ -1,0 +1,4 @@
+1. Install python then add it to path https://www.python.org/downloads/release/python-384/
+2. open cmd prompt type the following
+py -3 -m pip install -U discord.py
+pip install colorful
