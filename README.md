@@ -17,3 +17,6 @@ right click in the folder where my bot is located and open in powershell type in
 
 
 If u want to make commits ill approve most of them depending on what it is ill be updating here as i fix most of the broken features
+
+Important documentation can be found here
+https://discordpy.readthedocs.io/en/stable/ 
